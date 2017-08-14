@@ -1,0 +1,15 @@
+"D:\Program_Files\IAR Systems\Embedded Workbench 7.2\arm\bin\armproc.dll" 
+
+"D:\Program_Files\IAR Systems\Embedded Workbench 7.2\arm\bin\armstlink2.dll" 
+
+"E:\Workspace\github\STM32F469NIH6-Discovery\iar.gpio.led\debug\exe\STM32F469NI.out" 
+
+--plugin "D:\Program_Files\IAR Systems\Embedded Workbench 7.2\arm\bin\armbat.dll" 
+
+--device_macro "D:\Program_Files\IAR Systems\Embedded Workbench 7.2\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader "D:\Program_Files\IAR Systems\Embedded Workbench 7.2\arm\config\flashloader\ST\FlashSTM32F4xxI.board" 
+
+
+
+
